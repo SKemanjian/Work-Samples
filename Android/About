@@ -1,0 +1,4 @@
+This is a simple ruler app that I designed in Android Studio. 
+It was designed with the intention of giving the user a way to measure lengths using their phone.
+The length varies depending on the dimensions of the user's screen.
+Touch features are included, allowing the user to add onto the length by double tapping and an accurate measurement by sliding.
